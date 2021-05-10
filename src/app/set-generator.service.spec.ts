@@ -1,6 +1,6 @@
 import { TestBed } from '@angular/core/testing';
 
-import { SetGeneraterService } from './set-generater.service';
+import { SetGeneraterService } from './set-generator.service';
 
 describe('SetGeneraterService', () => {
   let service: SetGeneraterService;

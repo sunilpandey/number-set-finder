@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
-import { SetGeneraterService } from './set-generater.service';
+import { SetGeneraterService } from './set-generator.service';
 
 @Component({
   selector: 'app-root',
