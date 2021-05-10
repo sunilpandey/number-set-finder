@@ -1,4 +1,4 @@
-# Numbersetsfinder
+# Number sets finder
 This application search inside a set of numbers and find possible sets which sum is equal to provide value.<br>
 **For example**: <br/>
 If provided number set is `1, 2, 3, 5, 4, -1` and size of set is `2` and sum of subsets is `5` then all possible subsets are<br/>
