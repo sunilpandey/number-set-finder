@@ -11,7 +11,7 @@ Another example can be if provided number set is `1, 2, 3, 5, 4, -1` and size of
 ![](setfinder.png)
 
 # Files containing logic
-[Set Generator Service](https://github.com/sunilpandey/number-set-finder/blob/master/src/app/set-generator.service.spec.ts)<br>
+[Set Generator Service](https://github.com/sunilpandey/number-set-finder/blob/master/src/app/set-generator.service.ts)<br>
 [Set Generator Service Test](https://github.com/sunilpandey/number-set-finder/blob/master/src/app/set-generator.service.spec.ts)
  
 ## Development server
