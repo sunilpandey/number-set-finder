@@ -1,18 +1,18 @@
 # Numbersetsfinder
 This application search inside a set of numbers and find possible sets which sum is equal to provide value.<br>
 **For example**: <br/>
-If Provided number set is `1, 2, 3, 5, 4, -1` and size of set is `2` and sum of subsets is `5` then all possible subsets are<br/>
+If provided number set is `1, 2, 3, 5, 4, -1` and size of set is `2` and sum of subsets is `5` then all possible subsets are<br/>
 `[1, 4], [2, 3]`
 
-Another example can be If Provided number set is `1, 2, 3, 5, 4, -1` and size of set is `3` and sum of subsets is `6` then all possible subsets are<br/>
+Another example can be if provided number set is `1, 2, 3, 5, 4, -1` and size of set is `3` and sum of subsets is `6` then all possible subsets are<br/>
 `[ 1, 2, 3 ], [ 2, 5, -1 ], [ 3, 4, -1 ]`
 
 ### Screen with one sample run
 ![](setfinder.png)
 
 # Files containing logic
-[Set Generator Service](./src/set-generater-service.ts)<br>
-[Set Generator Service Test](./src/app/set-generater.service.spec.ts)
+[Set Generator Service](https://github.com/sunilpandey/number-set-finder/blob/master/src/app/set-generator.service.spec.ts)<br>
+[Set Generator Service Test](https://github.com/sunilpandey/number-set-finder/blob/master/src/app/set-generator.service.spec.ts)
  
 ## Development server
 
